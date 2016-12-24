@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>blanco.commons.io</groupId>
-	<artifactId>blancoCommons</artifactId>
+	<artifactId>blanco-commons</artifactId>
 	<packaging>jar</packaging>
 	<version>2.0.1</version>
-	<name>blancocommons</name>
-	<url>http://maven.apache.org</url>
+	<name>blanco-commons</name>
+	<url>https://igapyon.github.io/blancofw-maven2/</url>
 
 	<dependencies>
 		<dependency>
