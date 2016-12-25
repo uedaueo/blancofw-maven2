@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 	<version>2.0.1</version>
 	<name>blanco-commons</name>
-	<url>https://igapyon.github.io/blancofw-maven2/</url>
+	<url>https://igapyon.github.io/blancofw-maven2</url>
 
 	<dependencies>
 		<dependency>
@@ -30,7 +30,7 @@
 		<repository>
 			<id>deploy-repository</id>
 			<name>deployRepository</name>
-			<url>file:///home/pomegat/git/blancofw-maven2</url>
+			<url>file:///${project.basedir}/../blancofw-maven2</url>
 		</repository>
 	</distributionManagement>
 
@@ -51,6 +51,21 @@
 					<source>1.6</source>
 					<target>1.6</target>
 				</configuration>
+			</plugin>
+
+			<!-- create source jar. -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>3.0.1</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 
 			<!-- copy jar files. -->
