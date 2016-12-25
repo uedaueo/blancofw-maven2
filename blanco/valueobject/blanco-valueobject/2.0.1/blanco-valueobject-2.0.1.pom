@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>blanco.resourcebundle</groupId>
-	<artifactId>blanco-resourcebundle</artifactId>
+	<groupId>blanco.valueobject</groupId>
+	<artifactId>blanco-valueobject</artifactId>
 	<packaging>jar</packaging>
 	<version>2.0.1</version>
-	<name>blanco-resourcebundle</name>
+	<name>blanco-valueobject</name>
 	<url>https://igapyon.github.io/blancofw-maven2</url>
 
 	<dependencies>
@@ -29,9 +29,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>blanco.constants</groupId>
-			<artifactId>blanco-constants</artifactId>
-			<version>[2.0,3.0)</version>
+			<groupId>blanco.beanutils</groupId>
+			<artifactId>blanco-beanutils</artifactId>
+			<version>[1.0,2.0)</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.ant/ant -->
