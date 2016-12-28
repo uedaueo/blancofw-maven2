@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>blanco.blanco2g.runtime</groupId>
+  <artifactId>blanco2g-runtime</artifactId>
+  <versioning>
+    <release>0.6.1</release>
+    <versions>
+      <version>0.6.1</version>
+    </versions>
+    <lastUpdated>20161225143042</lastUpdated>
+  </versioning>
+</metadata>
