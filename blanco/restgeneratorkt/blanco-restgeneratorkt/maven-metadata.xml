@@ -3,10 +3,10 @@
   <groupId>blanco.restgeneratorkt</groupId>
   <artifactId>blanco-restgeneratorkt</artifactId>
   <versioning>
-    <release>0.1.1</release>
+    <release>0.1.2</release>
     <versions>
-      <version>0.1.1</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20201105112055</lastUpdated>
+    <lastUpdated>20201106122911</lastUpdated>
   </versioning>
 </metadata>
