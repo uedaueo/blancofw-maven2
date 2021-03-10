@@ -3,10 +3,10 @@
   <groupId>blanco.vuecomponent</groupId>
   <artifactId>blanco-vuecomponent</artifactId>
   <versioning>
-    <release>0.1.1</release>
+    <release>0.1.2</release>
     <versions>
-      <version>0.1.1</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20201028133517</lastUpdated>
+    <lastUpdated>20210310075755</lastUpdated>
   </versioning>
 </metadata>
