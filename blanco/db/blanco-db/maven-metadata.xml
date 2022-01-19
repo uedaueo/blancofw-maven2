@@ -3,10 +3,10 @@
   <groupId>blanco.db</groupId>
   <artifactId>blanco-db</artifactId>
   <versioning>
-    <release>2.4.8</release>
+    <release>2.4.9</release>
     <versions>
-      <version>2.4.8</version>
+      <version>2.4.9</version>
     </versions>
-    <lastUpdated>20210826121413</lastUpdated>
+    <lastUpdated>20220119063814</lastUpdated>
   </versioning>
 </metadata>
