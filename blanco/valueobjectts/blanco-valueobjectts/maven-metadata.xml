@@ -3,11 +3,10 @@
   <groupId>blanco.valueobjectts</groupId>
   <artifactId>blanco-valueobjectts</artifactId>
   <versioning>
-    <release>3.0.1</release>
+    <release>3.0.2</release>
     <versions>
-      <version>0.1.10</version>
-      <version>3.0.1</version>
+      <version>3.0.2</version>
     </versions>
-    <lastUpdated>20230508050826</lastUpdated>
+    <lastUpdated>20230512062650</lastUpdated>
   </versioning>
 </metadata>
